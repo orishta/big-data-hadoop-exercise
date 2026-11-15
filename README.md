@@ -1,6 +1,4 @@
-# Hadoop MapReduce Training
-
-Word count exercises from the Big Data course, run on an AWS EMR cluster using Python and Hadoop Streaming.
+Ori Shtalhaim
 
 ## Exercise 1
 
